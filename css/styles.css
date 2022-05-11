@@ -1,9 +1,11 @@
 /* add your css styles here! */
-.jumbotron.jumbotron-fluid{height:480px; background-size: cover; background-position: 0px -80px; background-repeat: no-repeat;}
-h1{color: blue;}
 
+.jumbotron.jumbotron-fluid{height:480px; background-size: cover; background-position: 0px -80px; background-repeat: no-repeat;}
+#heat h1{color: white;}
+#Flavors h1 {color: white;}
 .card img{height: 300px; width:auto;}
-#heat .card img{ max-height: 300px; width: fit-content;}
+/* #heat .card img{ max-height: 300px; width: fit-content;} */
 #knives{padding: 50px; }
-#heat{padding:50px; background-color: darkgray;}
+#heat{padding:50px; background-color: darkslategray;}
 #ingredients{padding: 50px;}
+#Flavors{padding:50px; background-color: darkslategrey;}
